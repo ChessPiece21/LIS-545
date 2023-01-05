@@ -1,5 +1,6 @@
 # Required
 MAINTAINER Joe Lollo <lollo21@uw.edu>
 
-# Get base image with XML
+# Copy repository
 FROM rocker/verse
+COPY . /LIS-545
