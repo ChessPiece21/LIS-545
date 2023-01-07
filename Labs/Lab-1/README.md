@@ -11,4 +11,4 @@ All you need to submit is the XML (Extensible Markup Language) files of the meta
 - You can use PRONOM here: http://www.nationalarchives.gov.uk/PRONOM/Default.aspx
 - The image is from the flickr commons: https://farm1.staticflickr.com/193/501261209_3e01721789_o_d.jpg
 - The PDF we characterized is the Borgman reading from this week.
-- The dataset we used is from the [Center for Environmental Data Analysis](https://data.ceda.ac.uk/badc/cira/data/) (CEDA): http://data.ceda.ac.uk/badc/cira/data/nhant.lsn
+- The ASCII dataset we used is from the [Center for Environmental Data Analysis](https://data.ceda.ac.uk/badc/cira/data/) (CEDA): http://data.ceda.ac.uk/badc/cira/data/nhant.lsn
