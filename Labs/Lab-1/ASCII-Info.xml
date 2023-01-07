@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PRONOM-Report xmlns="http://pronom.nationalarchives.gov.uk">
+  <report_encoding_detail>
+    <CharacterEncoding>
+      <EncodingID>1</EncodingID>
+      <EncodingName>US-ASCII</EncodingName>
+      <EncodingVersion>
+      </EncodingVersion>
+      <EncodingAliases>
+      </EncodingAliases>
+      <EncodingFamilies>
+      </EncodingFamilies>
+      <Description>American Standard Code for Information Interchange (ASCII)</Description>
+      <CodePage>
+      </CodePage>
+      <CodeUnitWidth>
+      </CodeUnitWidth>
+      <EncodingFormWidth>
+      </EncodingFormWidth>
+      <ReleaseDate>
+      </ReleaseDate>
+      <WithdrawnDate>
+      </WithdrawnDate>
+      <EncodingDocumentation>
+      </EncodingDocumentation>
+      <EncodingIPR>
+      </EncodingIPR>
+      <EncodingNote>
+      </EncodingNote>
+      <EncodingIdentifier>
+        <Identifier>x-chr/1</Identifier>
+        <IdentifierType>PUID</IdentifierType>
+      </EncodingIdentifier>
+    </CharacterEncoding>
+    <SearchCriteria>Detailed report on File Format ID 1</SearchCriteria>
+  </report_encoding_detail>
+</PRONOM-Report>
