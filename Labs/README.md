@@ -5,4 +5,6 @@
 <br>
 **Lab 3:** Standardization: [OpenRefine](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions) and [TEI](https://tei-c.org/)
 <br>
-**Lab 4:** Bibliography Construction with [LaTeX](https://www.latex-project.org/)
+**Lab 4:** Representing XML Data with [XSLT](https://www.w3.org/TR/xslt/)
+<br>
+**Lab 5:** Building Data Proiles with [LaTeX](https://www.latex-project.org/)
