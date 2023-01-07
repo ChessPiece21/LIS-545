@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jhove xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.openpreservation.org/ois/xml/ns/jhove" xsi:schemaLocation="http://schema.openpreservation.org/ois/xml/ns/jhove https://schema.openpreservation.org/ois/xml/xsd/jhove/1.8/jhove.xsd" name="JhoveView" release="1.26.1" date="2022-07-14">
+ <date>2023-01-06T17:25:53-08:00</date>
+ <repInfo uri="/Users/joelollo/Downloads/Borgman-WhatAreData.pdf">
+  <reportingModule release="1.12.3" date="2022-04-22">PDF-hul</reportingModule>
+  <lastModified>2023-01-06T17:18:13-08:00</lastModified>
+  <size>1945174</size>
+  <format>PDF</format>
+  <version>1.3</version>
+  <status>Well-Formed and valid</status>
+  <sigMatch>
+  <module>PDF-hul</module>
+  </sigMatch>
+  <mimeType>application/pdf</mimeType>
+  <properties>
+   <property>
+    <name>PDFMetadata</name>
+    <values arity="List" type="Property">
+    <property>
+     <name>Objects</name>
+     <values arity="Scalar" type="Integer">
+      <value>164</value>
+     </values>
+    </property>
+    <property>
+     <name>FreeObjects</name>
+     <values arity="Scalar" type="Integer">
+      <value>1</value>
+     </values>
+    </property>
+    <property>
+     <name>IncrementalUpdates</name>
+     <values arity="Scalar" type="Integer">
+      <value>0</value>
+     </values>
+    </property>
+    <property>
+     <name>DocumentCatalog</name>
+     <values arity="List" type="Property">
+     <property>
+      <name>PageLayout</name>
+      <values arity="Scalar" type="String">
+       <value>SinglePage</value>
+      </values>
+     </property>
+     <property>
+      <name>PageMode</name>
+      <values arity="Scalar" type="String">
+       <value>UseNone</value>
+      </values>
+     </property>
+     <property>
+      <name>Outlines</name>
+      <values arity="List" type="Property">
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>Title Page</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>Copyright</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>Dedication</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>Table of Contents</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>Detailed Table of Contents</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>Preface</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>Acknowledgments</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>I Data and Scholarship</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       <property>
+        <name>Children</name>
+        <values arity="List" type="Property">
+        <property>
+         <name>Item</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>Title</name>
+          <values arity="Scalar" type="String">
+           <value>1 Provocations</value>
+          </values>
+         </property>
+         <property>
+          <name>Destination</name>
+          <values arity="Scalar" type="Integer">
+           <value>1</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Item</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>Title</name>
+          <values arity="Scalar" type="String">
+           <value>2 What Are Data?</value>
+          </values>
+         </property>
+         <property>
+          <name>Destination</name>
+          <values arity="Scalar" type="Integer">
+           <value>1</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Item</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>Title</name>
+          <values arity="Scalar" type="String">
+           <value>3 Data Scholarship</value>
+          </values>
+         </property>
+         <property>
+          <name>Destination</name>
+          <values arity="Scalar" type="Integer">
+           <value>1</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Item</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>Title</name>
+          <values arity="Scalar" type="String">
+           <value>4 Data Diversity</value>
+          </values>
+         </property>
+         <property>
+          <name>Destination</name>
+          <values arity="Scalar" type="Integer">
+           <value>1</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>II Case Studies in Data Scholarship</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       <property>
+        <name>Children</name>
+        <values arity="List" type="Property">
+        <property>
+         <name>Item</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>Title</name>
+          <values arity="Scalar" type="String">
+           <value>5 Data Scholarship in the Sciences</value>
+          </values>
+         </property>
+         <property>
+          <name>Destination</name>
+          <values arity="Scalar" type="Integer">
+           <value>1</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Item</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>Title</name>
+          <values arity="Scalar" type="String">
+           <value>6 Data Scholarship in the Social Sciences</value>
+          </values>
+         </property>
+         <property>
+          <name>Destination</name>
+          <values arity="Scalar" type="Integer">
+           <value>1</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Item</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>Title</name>
+          <values arity="Scalar" type="String">
+           <value>7 Data Scholarship in the Humanities</value>
+          </values>
+         </property>
+         <property>
+          <name>Destination</name>
+          <values arity="Scalar" type="Integer">
+           <value>1</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>III Data Policy and Practice</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       <property>
+        <name>Children</name>
+        <values arity="List" type="Property">
+        <property>
+         <name>Item</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>Title</name>
+          <values arity="Scalar" type="String">
+           <value>8 Sharing, Releasing, and Reusing Data</value>
+          </values>
+         </property>
+         <property>
+          <name>Destination</name>
+          <values arity="Scalar" type="Integer">
+           <value>1</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Item</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>Title</name>
+          <values arity="Scalar" type="String">
+           <value>9 Credit, Attribution, and Discovery of Data</value>
+          </values>
+         </property>
+         <property>
+          <name>Destination</name>
+          <values arity="Scalar" type="Integer">
+           <value>1</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Item</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>Title</name>
+          <values arity="Scalar" type="String">
+           <value>10 What to Keep and Why</value>
+          </values>
+         </property>
+         <property>
+          <name>Destination</name>
+          <values arity="Scalar" type="Integer">
+           <value>1</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>References</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Item</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Title</name>
+        <values arity="Scalar" type="String">
+         <value>Index</value>
+        </values>
+       </property>
+       <property>
+        <name>Destination</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      </values>
+     </property>
+     </values>
+    </property>
+     <property>
+      <name>ID</name>
+      <values arity="Array" type="String">
+       <value>0x27e8ec6ea3889ea92858357493445564</value>
+       <value>0x27e8ec6ea3889ea92858357493445564</value>
+      </values>
+     </property>
+     <property>
+      <name>Filters</name>
+      <values arity="List" type="Property">
+      <property>
+       <name>FilterPipeline</name>
+       <values arity="Scalar" type="String">
+        <value>FlateDecode</value>
+       </values>
+      </property>
+      <property>
+       <name>FilterPipeline</name>
+       <values arity="Scalar" type="String">
+        <value>DCTDecode</value>
+       </values>
+      </property>
+      </values>
+     </property>
+     <property>
+      <name>Images</name>
+      <values arity="List" type="Property">
+      <property>
+       <name>Image</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>NisoImageMetadata</name>
+        <values arity="Scalar" type="NISOImageMetadata">
+         <value>
+       <mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+        <mix:BasicDigitalObjectInformation>
+         <mix:ObjectIdentifier>
+          <mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+         </mix:ObjectIdentifier>
+         <mix:FormatDesignation>
+          <mix:formatName>image/jpg</mix:formatName>
+         </mix:FormatDesignation>
+         <mix:Compression>
+          <mix:compressionScheme>JPEG</mix:compressionScheme>
+         </mix:Compression>
+        </mix:BasicDigitalObjectInformation>
+        <mix:BasicImageInformation>
+         <mix:BasicImageCharacteristics>
+          <mix:imageWidth>1800</mix:imageWidth>
+          <mix:imageHeight>2664</mix:imageHeight>
+         </mix:BasicImageCharacteristics>
+        </mix:BasicImageInformation>
+        <mix:ImageAssessmentMetadata>
+         <mix:ImageColorEncoding>
+          <mix:BitsPerSample>
+           <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+           <mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+          </mix:BitsPerSample>
+         </mix:ImageColorEncoding>
+        </mix:ImageAssessmentMetadata>
+       </mix:mix>
+         </value>
+        </values>
+       </property>
+       <property>
+        <name>Interpolate</name>
+        <values arity="Scalar" type="Boolean">
+         <value>true</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Image</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>NisoImageMetadata</name>
+        <values arity="Scalar" type="NISOImageMetadata">
+         <value>
+       <mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+        <mix:BasicDigitalObjectInformation>
+         <mix:ObjectIdentifier>
+          <mix:objectIdentifierType>JHOVE</mix:objectIdentifierType>
+         </mix:ObjectIdentifier>
+         <mix:FormatDesignation>
+          <mix:formatName>image/png</mix:formatName>
+         </mix:FormatDesignation>
+        </mix:BasicDigitalObjectInformation>
+        <mix:BasicImageInformation>
+         <mix:BasicImageCharacteristics>
+          <mix:imageWidth>1300</mix:imageWidth>
+          <mix:imageHeight>1267</mix:imageHeight>
+         </mix:BasicImageCharacteristics>
+        </mix:BasicImageInformation>
+        <mix:ImageAssessmentMetadata>
+         <mix:ImageColorEncoding>
+          <mix:BitsPerSample>
+           <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+           <mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+          </mix:BitsPerSample>
+         </mix:ImageColorEncoding>
+        </mix:ImageAssessmentMetadata>
+       </mix:mix>
+         </value>
+        </values>
+       </property>
+       <property>
+        <name>Filter</name>
+        <values arity="Scalar" type="String">
+         <value>FlateDecode</value>
+        </values>
+       </property>
+       <property>
+        <name>Intent</name>
+        <values arity="Scalar" type="String">
+         <value>RelativeColorimetric</value>
+        </values>
+       </property>
+       <property>
+        <name>Interpolate</name>
+        <values arity="Scalar" type="Boolean">
+         <value>true</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      </values>
+     </property>
+     <property>
+      <name>Fonts</name>
+      <values arity="List" type="Property">
+      <property>
+       <name>Type1</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Font</name>
+        <values arity="List" type="Property">
+        <property>
+         <name>BaseFont</name>
+         <values arity="Scalar" type="String">
+          <value>IJCRVL+StoneSansStd-Semibold</value>
+         </values>
+        </property>
+        <property>
+         <name>FontSubset</name>
+         <values arity="Scalar" type="Boolean">
+          <value>true</value>
+         </values>
+        </property>
+        <property>
+         <name>FirstChar</name>
+         <values arity="Scalar" type="Integer">
+          <value>32</value>
+         </values>
+        </property>
+        <property>
+         <name>LastChar</name>
+         <values arity="Scalar" type="Integer">
+          <value>121</value>
+         </values>
+        </property>
+        <property>
+         <name>FontDescriptor</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>FontName</name>
+          <values arity="Scalar" type="String">
+           <value>IJCRVL+StoneSansStd-Semibold</value>
+          </values>
+         </property>
+         <property>
+          <name>Flags</name>
+          <values arity="List" type="String">
+           <value>Nonsymbolic</value>
+          </values>
+         </property>
+         <property>
+          <name>FontBBox</name>
+          <values arity="Array" type="Integer">
+           <value>-210</value>
+           <value>-281</value>
+           <value>1436</value>
+           <value>981</value>
+          </values>
+         </property>
+         <property>
+          <name>FontFile3</name>
+          <values arity="Scalar" type="Boolean">
+           <value>true</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Encoding</name>
+         <values arity="Scalar" type="String">
+          <value>MacRomanEncoding</value>
+         </values>
+        </property>
+        </values>
+       </property>
+       <property>
+        <name>Font</name>
+        <values arity="List" type="Property">
+        <property>
+         <name>BaseFont</name>
+         <values arity="Scalar" type="String">
+          <value>MJIWAQ+StoneSerifStd-Medium</value>
+         </values>
+        </property>
+        <property>
+         <name>FontSubset</name>
+         <values arity="Scalar" type="Boolean">
+          <value>true</value>
+         </values>
+        </property>
+        <property>
+         <name>FirstChar</name>
+         <values arity="Scalar" type="Integer">
+          <value>32</value>
+         </values>
+        </property>
+        <property>
+         <name>LastChar</name>
+         <values arity="Scalar" type="Integer">
+          <value>213</value>
+         </values>
+        </property>
+        <property>
+         <name>FontDescriptor</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>FontName</name>
+          <values arity="Scalar" type="String">
+           <value>MJIWAQ+StoneSerifStd-Medium</value>
+          </values>
+         </property>
+         <property>
+          <name>Flags</name>
+          <values arity="List" type="String">
+           <value>Nonsymbolic</value>
+          </values>
+         </property>
+         <property>
+          <name>FontBBox</name>
+          <values arity="Array" type="Integer">
+           <value>-232</value>
+           <value>-281</value>
+           <value>1310</value>
+           <value>972</value>
+          </values>
+         </property>
+         <property>
+          <name>FontFile3</name>
+          <values arity="Scalar" type="Boolean">
+           <value>true</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Encoding</name>
+         <values arity="Scalar" type="String">
+          <value>MacRomanEncoding</value>
+         </values>
+        </property>
+        </values>
+       </property>
+       <property>
+        <name>Font</name>
+        <values arity="List" type="Property">
+        <property>
+         <name>BaseFont</name>
+         <values arity="Scalar" type="String">
+          <value>MUPDUJ+StoneSerifStd-MediumItalic</value>
+         </values>
+        </property>
+        <property>
+         <name>FontSubset</name>
+         <values arity="Scalar" type="Boolean">
+          <value>true</value>
+         </values>
+        </property>
+        <property>
+         <name>FirstChar</name>
+         <values arity="Scalar" type="Integer">
+          <value>32</value>
+         </values>
+        </property>
+        <property>
+         <name>LastChar</name>
+         <values arity="Scalar" type="Integer">
+          <value>121</value>
+         </values>
+        </property>
+        <property>
+         <name>FontDescriptor</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>FontName</name>
+          <values arity="Scalar" type="String">
+           <value>MUPDUJ+StoneSerifStd-MediumItalic</value>
+          </values>
+         </property>
+         <property>
+          <name>Flags</name>
+          <values arity="List" type="String">
+           <value>Nonsymbolic</value>
+          </values>
+         </property>
+         <property>
+          <name>FontBBox</name>
+          <values arity="Array" type="Integer">
+           <value>-241</value>
+           <value>-288</value>
+           <value>1330</value>
+           <value>960</value>
+          </values>
+         </property>
+         <property>
+          <name>FontFile3</name>
+          <values arity="Scalar" type="Boolean">
+           <value>true</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Encoding</name>
+         <values arity="Scalar" type="String">
+          <value>MacRomanEncoding</value>
+         </values>
+        </property>
+        </values>
+       </property>
+       <property>
+        <name>Font</name>
+        <values arity="List" type="Property">
+        <property>
+         <name>BaseFont</name>
+         <values arity="Scalar" type="String">
+          <value>HFERSU+StoneSansStd-SemiboldItalic</value>
+         </values>
+        </property>
+        <property>
+         <name>FontSubset</name>
+         <values arity="Scalar" type="Boolean">
+          <value>true</value>
+         </values>
+        </property>
+        <property>
+         <name>FirstChar</name>
+         <values arity="Scalar" type="Integer">
+          <value>32</value>
+         </values>
+        </property>
+        <property>
+         <name>LastChar</name>
+         <values arity="Scalar" type="Integer">
+          <value>121</value>
+         </values>
+        </property>
+        <property>
+         <name>FontDescriptor</name>
+         <values arity="List" type="Property">
+         <property>
+          <name>FontName</name>
+          <values arity="Scalar" type="String">
+           <value>HFERSU+StoneSansStd-SemiboldItalic</value>
+          </values>
+         </property>
+         <property>
+          <name>Flags</name>
+          <values arity="List" type="String">
+           <value>Nonsymbolic</value>
+          </values>
+         </property>
+         <property>
+          <name>FontBBox</name>
+          <values arity="Array" type="Integer">
+           <value>-184</value>
+           <value>-283</value>
+           <value>1334</value>
+           <value>981</value>
+          </values>
+         </property>
+         <property>
+          <name>FontFile3</name>
+          <values arity="Scalar" type="Boolean">
+           <value>true</value>
+          </values>
+         </property>
+         </values>
+        </property>
+        <property>
+         <name>Encoding</name>
+         <values arity="Scalar" type="String">
+          <value>MacRomanEncoding</value>
+         </values>
+        </property>
+        </values>
+       </property>
+       </values>
+      </property>
+      </values>
+     </property>
+     <property>
+      <name>Pages</name>
+      <values arity="List" type="Property">
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>1</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>2</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>3</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>4</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>5</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>6</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>7</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>8</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>9</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>10</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>11</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>12</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>13</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      <property>
+       <name>Page</name>
+       <values arity="List" type="Property">
+       <property>
+        <name>Sequence</name>
+        <values arity="Scalar" type="Integer">
+         <value>14</value>
+        </values>
+       </property>
+       </values>
+      </property>
+      </values>
+     </property>
+    </values>
+   </property>
+  </properties>
+ </repInfo>
+ </jhove>

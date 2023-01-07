@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jhove xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schema.openpreservation.org/ois/xml/ns/jhove" xsi:schemaLocation="http://schema.openpreservation.org/ois/xml/ns/jhove https://schema.openpreservation.org/ois/xml/xsd/jhove/1.8/jhove.xsd" name="JhoveView" release="1.26.1" date="2022-07-14">
+ <date>2023-01-06T17:30:43-08:00</date>
+ <repInfo uri="/Users/joelollo/Downloads/nhant.lsn">
+  <reportingModule release="1.4.2" date="2022-04-22">ASCII-hul</reportingModule>
+  <lastModified>2023-01-06T17:02:10-08:00</lastModified>
+  <size>63096</size>
+  <format>ASCII</format>
+  <status>Well-Formed and valid</status>
+  <mimeType>text/plain; charset=US-ASCII</mimeType>
+  <properties>
+   <property>
+    <name>ASCIIMetadata</name>
+    <values arity="List" type="Property">
+    <property>
+     <name>LineEndings</name>
+     <values arity="List" type="String">
+      <value>LF</value>
+     </values>
+    </property>
+    <property>
+     <name>ControlCharacters</name>
+     <values arity="List" type="String">
+      <value>HT (0x09)</value>
+      <value>FF (0x0C)</value>
+     </values>
+    </property>
+    </values>
+   </property>
+  </properties>
+ </repInfo>
+</jhove>
