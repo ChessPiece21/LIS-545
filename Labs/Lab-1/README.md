@@ -2,9 +2,10 @@
 
 In our first lecture, we talked about data being a type of information object playing the role of evidence. One thing that may be difficult in our practical work in doing data curation is understanding what type of information object we are dealing with. For example, someone may send us a folder of images, but we don't know what format those images take. We may also come across new formats that we don't understand or know anything about. 
 
-This demonstration is meant to show you a tool which can be useful in understanding data types - [JHOVE](https://jhove.openpreservation.org/), the JSTOR/Harvard Open Validation Environment. For your lab this week, export the JHOVE metadata from the [video lecture](https://canvas.uw.edu/courses/1613532/files/100291653/download). 
+The lab is meant to introduce you to a tool which can be useful in understanding data types - [JHOVE](https://jhove.openpreservation.org/), the JSTOR/Harvard Open Validation Environment. For your lab this week, export the JHOVE metadata as indicated in the [video lecture](https://canvas.uw.edu/courses/1613532/files/100291653/download). 
 
-All you need to submit is the XML (Extensible Markup Language) files of the metadata that you will export from JHOVE.
+## Submission:
+All you need to submit is the XML (Extensible Markup Language) files of the metadata that you will export from JHOVE, as well as XML files of the PRONOM information for each of their file formats.
 
 ## Tools:
 - You can download JHOVE here: http://jhove.openpreservation.org/
