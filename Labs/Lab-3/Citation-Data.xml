@@ -1,17 +1,2 @@
-<listBibl>
-<biblStruct type="book" xml:id="Blake1999" corresp="http://zotero.org/users/10858900/items/GY2ZIL9M">
-<monogr>
-<title level="m">Songs of Innocence and of Experience</title>
-<idno type="callNumber">EBook-No. 1934</idno>
-<author>
-<forename>William</forename>
-<surname>Blake</surname>
-</author>
-<imprint>
-<date>1999</date>
-<note type="accessed">2023-01-10T22:14:50Z</note>
-<note type="url">https://www.gutenberg.org/ebooks/1934</note>
-</imprint>
-</monogr>
-</biblStruct>
-</listBibl>
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl xmlns="http://www.tei-c.org/ns/1.0"><biblStruct type="book" xml:id="Blake1999" corresp="http://zotero.org/users/10858900/items/GY2ZIL9M"><monogr><title level="m">Songs of Innocence and of Experience</title><idno type="callNumber">EBook-No. 1934</idno><author><forename>William</forename><surname>Blake</surname></author><imprint><date>1999</date><note type="accessed">2023-01-10T22:14:50Z</note><note type="url">https://www.gutenberg.org/ebooks/1934</note></imprint></monogr></biblStruct></listBibl>
