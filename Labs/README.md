@@ -7,4 +7,4 @@
 <br>
 **Lab 4:** Representing XML Data with [XSLT](https://www.w3.org/TR/xslt/)
 <br>
-**Lab 5:** Building Data Proiles with [LaTeX](https://www.latex-project.org/)
+**Lab 5:** Building Data Profiles with [LaTeX](https://www.latex-project.org/)
