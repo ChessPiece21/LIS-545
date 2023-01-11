@@ -1,6 +1,7 @@
 # Lab 2: Introduction to Tabula
 The application that we're exploring this week is a tool called [Tabula](https://tabula.technology/) that allows us to extract tables (semi-structured data) from PDFs.
 
+Tabula is a browser-based tool to extract tables embedded in PDFs, which is very useful for turning unstructured data into more structured documents. This is helpful for data curation work, since much of it requires managing, and working with, data tables, and this tool can make the tables found in many PDFs more accessible.
 
 ## Submission:
 Please submit the extracted tables from Tabula as CSVs, with no cleaning or editing on your end.
